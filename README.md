@@ -35,7 +35,7 @@
 ## DataSet:
 
      DOWNLOAD DATASET FROM HERE 
-     ( https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india )
+(https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india )
 
 ## Code:
      
@@ -57,7 +57,7 @@
 ## DataSet:
 
      DOWNLOAD DATASET FROM HERE 
-     ( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset )
+(https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset )
 
 ## Code:
      
