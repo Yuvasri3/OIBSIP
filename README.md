@@ -10,7 +10,8 @@
 
 ## DataSet:
 
-     DOWNLOAD DATASET FROM HERE ( https://www.kaggle.com/datasets/saurabh00007/iriscsv )
+     DOWNLOAD DATASET FROM HERE
+     ( https://www.kaggle.com/datasets/saurabh00007/iriscsv )
 
 
 ## Code:
@@ -30,7 +31,8 @@
 
 ## DataSet:
 
-     DOWNLOAD DATASET FROM HERE ( https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india )
+     DOWNLOAD DATASET FROM HERE 
+     ( https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india )
 
 
 ## Code:
@@ -52,7 +54,8 @@
  
 ## DataSet:
 
-     DOWNLOAD DATASET FROM HERE ( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset )
+     DOWNLOAD DATASET FROM HERE 
+     ( https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset )
 
 ## Code:
      
