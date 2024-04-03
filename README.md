@@ -71,7 +71,7 @@ In this project, I performed an in-depth analysis using Python as part of the _d
 
 ## Author
 
-- [YUVASRI3](https://www.linkedin.com/in/yuvasri-p-b380b5258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
+- [YUVASRI](https://www.linkedin.com/in/yuvasri-p-b380b5258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app )
 
 ## Reference
  - [Oasis Infobyte](https://oasisinfobyte.com)
