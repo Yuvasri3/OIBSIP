@@ -37,7 +37,9 @@
 
 ## Code:
      
-    File contains the Jupyter Notebook code used for data analysis and visualization (https://colab.research.google.com/drive/1AcP3MdZ1pMD3EFOtmYlaaA_D9pnAPV7Q?usp=drive_link)
+    File contains the Jupyter Notebook code used for data analysis and visualization 
+    
+    (https://colab.research.google.com/drive/1AcP3MdZ1pMD3EFOtmYlaaA_D9pnAPV7Q?usp=drive_link)
 
 
 # EMAIL SPAM DETECTION WITH MACHINE LEARNING
