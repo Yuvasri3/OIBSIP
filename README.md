@@ -1,66 +1,47 @@
+# Unemployment Analysis using Python
 
-## Problem Statement
+This project analyzes the _unemployment scenario_ before and after the lockdown using Python. It includes data analysis, visualizations, 
+and insights derived from the provided dataset.
 
-The iris flower, scientifically known as Iris, is a distinctive genus of flowering plants. Within this genus, there are three primary species: Iris setosa, Iris versicolor, and Iris virginica. These species exhibit variations in their physical characteristics, particularly in the measurements of their sepal length, sepal width, petal length, and petal width.
+## problem statement 
 
-**Objective:**
+Unemployment is measured by the unemployment rate which is the number of people
+who are unemployed as a percentage of the total labour force. We have seen a sharp
+increase in the unemployment rate during Covid-19, so analyzing the unemployment rate
+can be a good data science project
 
-The objective of this project is to develop a machine learning model capable of learning from the measurements of iris flowers and accurately classifying them into their respective species. The model's primary goal is to automate the classification process based on the distinct characteristics of each iris species.
 
-**Project Details:**
+## Features
 
-- **Iris Species:** The dataset consists of iris flowers, specifically from the species setosa, versicolor, and virginica.
-- **Key Measurements:** The essential characteristics used for classification include sepal length, sepal width, petal length, and petal width.
-- **Machine Learning Model:** The project involves the creation and training of a machine learning model to accurately classify iris flowers based on their measurements.
+- Analyze the unemployment rates, employment, and labor participation for different states and regions.
+- Visualize the unemployment rates through various plots and charts.
+- Compare the average unemployment rates before and after the lockdown.
+- Explore the impact of lockdown on employment in different states.
 
-This project's significance lies in its potential to streamline and automate the classification of iris species, which can have broader applications in botany, horticulture, and environmental monitoring.
+## Dataset
 
----
+The dataset used for this analysis is available in the DOWNLOAD DATASET FROM HERE https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 
-## Project Summary
 
-**Project Description:**
+## Code
 
-The Iris Flower Classification project focuses on developing a machine learning model to classify iris flowers into their respective species based on specific measurements. Iris flowers are classified into three species: setosa, versicolor, and virginica, each of which exhibits distinct characteristics in terms of measurements.
+- The `unemployment-analysis.ipynb` file contains the Jupyter Notebook code used for data analysis and visualization.
+- The `app.py` file contains the Streamlit code for deploying the project as a web application.
+- The `requirements.txt` file lists the dependencies required for running the Streamlit app.
 
-**Objective:**
 
-The primary goal of this project is to leverage machine learning techniques to build a classification model that can accurately identify the species of iris flowers based on their measurements. The model aims to automate the classification process, offering a practical solution for identifying iris species.
+## Project Structure
+The project repository has the following structure:
+- data.csv
+- unemployment-analysis.ipynb
+- README.md
+Feel free to explore the repository and run the project locally.
 
-**Key Project Details:**
+## Additional Notes
+In this project, I performed an in-depth analysis of unemployment rates using Python as part of the _data science internship_ at **Oasis Infobyte**. I explored various visualizations to understand the trends and patterns in unemployment data. The project includes descriptive statistics, heatmaps, box plots, bar plots, scatter plots, and geographical plots to gain insights into the impact of lockdown on employment.
 
-- Iris flowers have three species: setosa, versicolor, and virginica.
-- These species can be distinguished based on measurements such as sepal length, sepal width, petal length, and petal width.
-- The project involves training a machine learning model on a dataset that contains iris flower measurements associated with their respective species.
-- The trained model will classify iris flowers into one of the three species based on their measurements.
+Please refer to the Jupyter Notebook file (_unemployment-analysis.ipynb_) for a detailed step-by-step analysis and visualization code.
 
-       
 
-## Conclusion
 
-In the Iris flower classification project, the tuned Random Forest model has been selected as the final prediction model. The project aimed to classify Iris flowers into three distinct species: Iris-Setosa, Iris-Versicolor, and Iris-Virginica. After extensive data exploration, preprocessing, and model evaluation, the following conclusions can be drawn:
 
-1. **Data Exploration:** Through a thorough examination of the dataset, we gained insights into the characteristics and distributions of features. We found that Iris-Setosa exhibited distinct features compared to the other two species.
-
-2. **Data Preprocessing:** Data preprocessing steps, including handling missing values and encoding categorical variables, were performed to prepare the dataset for modeling.
-
-3. **Model Selection:** After experimenting with various machine learning models, tuned Random Forest was chosen as the final model due to its simplicity, interpretability, and good performance in classifying Iris species.
-
-4. **Model Training and Evaluation:** The Random Forest (tuned) model was trained on the training dataset and evaluated using appropriate metrics. The model demonstrated satisfactory accuracy and precision in classifying Iris species.
-
-5. **Challenges and Future Work:** The project encountered challenges related to feature engineering and model fine-tuning. Future work may involve exploring more advanced modeling techniques to improve classification accuracy further.
-
-6. **Practical Application:** The Iris flower classification model can be applied in real-world scenarios, such as botany and horticulture, to automate the identification of Iris species based on physical characteristics.
-
-In conclusion, the Iris flower classification project successfully employed Random Forest (tuned) as the final prediction model to classify Iris species. The project's outcomes have practical implications in the field of botany and offer valuable insights into feature importance for species differentiation. Further refinements and enhancements may lead to even more accurate and reliable classification models in the future.
-
----
-
-## Author
-
-- [LINKEDIN ID](https://www.linkedin.com/in/yuvasri-p-b380b5258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=andro/)
-
----
-
-## Reference
- - [Oasis Infobyte](https://oasisinfobyte.com/)
